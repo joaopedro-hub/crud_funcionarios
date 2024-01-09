@@ -2,7 +2,7 @@
     Document   : index
     Author     : joaopedro
 --%>
-<!-- https://www.youtube.com/watch?v=ST6RovESrFU&list=PLCTD_CpMeEKRAgcBmPee0Wjx5HsJ0nb0L&index=14 -->
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

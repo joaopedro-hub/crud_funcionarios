@@ -6,7 +6,7 @@
     Based on template by Mutiullah Samim
 --%>
 
-<%-- https://www.youtube.com/watch?v=yxk-bUIGBhw&list=PLCTD_CpMeEKRAgcBmPee0Wjx5HsJ0nb0L&index=15 --%>
+
 <!DOCTYPE html>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*" %>
